@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "rock",
+      "score": 1,
+      "isTreasure": false
+    },
+    {
+      "type": "bomb",
+      "score": -5,
+      "isTreasure": false
+    },
+    {
+      "type": "diamond",
+      "score": 10,
+      "isTreasure": true
+    },
+    {
+      "type": "emerald",
+      "score": 5,
+      "isTreasure": true
+    },
+    {
+      "type": "ruby",
+      "score": 7,
+      "isTreasure": true
+    },
+    {
+      "type": "pearl",
+      "score": 3,
+      "isTreasure": true
+    },
+    {
+      "type": "goldenMonkey",
+      "score": 25,
+      "isTreasure": true
+    }
+  ]
+}
